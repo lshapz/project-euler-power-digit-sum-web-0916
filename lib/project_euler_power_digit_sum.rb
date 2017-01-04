@@ -7,3 +7,5 @@ def power_digit_sum(x, n)
 
 
 end
+
+# puts power_digit_sum(2, 1000)
